@@ -1,3 +1,8 @@
+Please use AWS Marketplace templates for the official solution:
+
+https://aws.amazon.com/marketplace/pp/B07DM9MG9L?qid=1555960100502&sr=0-1&ref_=srh_res_product_title
+https://aws.amazon.com/marketplace/pp/B07QK2H1M5?qid=1555960100502&sr=0-2&ref_=srh_res_product_title
+
 # Step 1 : Launching a Transit VPC Hub 
 Transit VPC all CSR solution for deployment into AWS
 
